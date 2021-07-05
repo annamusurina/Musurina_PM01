@@ -1,0 +1,8 @@
+.one {background: url(fon1.jpg); background-size: 100%; }
+.two {background: url(fon2.jpg);}
+.ter{text-align:center; font-face:Monotype Corsiva; font-size:24pt; font-weight: 600; text-decoration: underline}
+.y{text-align:center; font-face:Arial; font-size:24pt; font-weight: 600; font-style:italic; text-decoration: underline}
+.perv {background:#FFFF00; border: 2px solid black; margin:100px 280px 0px 30px}
+.vtor {background:Yellow; border: 4px double black; margin:100px 280px 0px 30px}
+img.x {margin-right: 15px}
+
